@@ -1,0 +1,15 @@
+docassist-ai/
+│
+├── backend/
+│   ├── main.py
+│   ├── rag.py
+│   ├── intent.py
+│   ├── memory.py
+│   └── requirements.txt
+│
+├── frontend/
+│   ├── index.html
+│   ├── main.js
+│   └── style.css
+│
+└── README.md
