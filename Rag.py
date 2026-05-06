@@ -62,5 +62,3 @@ def detect_emotion(text):
         return "Frustrated"
     return "Neutral"
 
-
-sessions = {}
